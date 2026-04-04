@@ -2,6 +2,8 @@
 
 Simple backend server for Mux video uploads.
 
+## Fork this repo under your gitub account
+
 ---
 
 ## 🚀 Quick Deploy to Render (15 minutes)
