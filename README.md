@@ -41,11 +41,12 @@ Simple backend server for Mux video uploads.
    - **Plan:** Starter ($7/month)
 
 5. Add Environment Variables:
+   - Make sure to select the appropriate hosting region and plan. You can start with the $0/month plan for now and upgrade later when you reach the free tier limits.
    - `MUX_TOKEN_ID` = [Your Token ID]
    - `MUX_TOKEN_SECRET` = [Your Secret Key]
    - `PORT` = `8080`
 
-6. Click **Create Web Service**
+7. Click **Create Web Service**
 
 ---
 
